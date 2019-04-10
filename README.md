@@ -1,6 +1,8 @@
 # test:learn to use git
 ## 建立本地仓库
 `cd /c/users/wrx/test`
+注意git终端里的目录表达方式和ubuntu下是一样的，真是喜讯啊= =！
+
 `mkdir git_repository`
 
 ## 生成SSH密钥
